@@ -12,7 +12,7 @@ Other:
   - cloud cover
   - temperature
   - humidity
-  - preceeding weather
+  - preceding weather
 - pilot
 - pilot hook-in-weight
 - pilot flights to date? (ie. experience)

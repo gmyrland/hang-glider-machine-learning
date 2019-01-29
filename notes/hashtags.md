@@ -1,0 +1,25 @@
+# Hashtag Brainstorming
+
+- #dataflown
+- #datainflight
+- #bitsandflytes
+- #bitsandflights
+- #bitsandkites
+- #flyingmachinelearning
+- #bigflightdata
+- #keepingupwithdata
+- #tensorflown
+- #datasoaring
+- #gettinglift
+- #flightdata
+- #gagglebytes
+- #practicalsignificance
+- #clouddata
+- #uploadingtothecloud
+- #flIOT
+- #flyOT
+- #riseofthelfightmachines
+- #lookingforaraise
+- #predictinguptime/downtime
+- #circularreference
+- #notjustwingingit
