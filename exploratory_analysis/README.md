@@ -27,4 +27,4 @@ The combined flight paths for both flight fields are shown in the following figu
 
 ![High Perspective](https://github.com/gmyrland/hang-glider-machine-learning/blob/master/exploratory_analysis/results/ggmap_hp.png)
 
-![Dave's Field](https://github.com/gmyrland/hang-glider-machine-learning/blob/master/exploratory_analysis/results/ggmap_dave.png)
+![Fly Gravity](https://github.com/gmyrland/hang-glider-machine-learning/blob/master/exploratory_analysis/results/ggmap_fg.png)

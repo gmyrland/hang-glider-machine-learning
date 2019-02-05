@@ -43,7 +43,7 @@ Some considerations are:
 While centering in a thermal is largely a matter of experience and technique, the challenge is locating the thermals.
 Unless there is physical evidence of a thermal (such as seeing another pilot successfully achieving lift), they are effectively invisible.
 
-Further, since there is a large rising volume of air, there is also typically descending air, or “sink”, in the proximity of large thermals to full in the displaced mass.
+Further, since there is a large rising volume of air, there is also typically descending air, or “sink”, in the proximity of large thermals to fill in the displaced mass.
 Even long flights can be cut short by searching for thermals and finding nothing but sink.
 
 A system which improves the reliability of finding thermals would benefit both novice pilots (by extending their flights and experience) and advanced pilots (who may need to find elusive lift while travelling 100's of km's cross country).
@@ -59,7 +59,7 @@ It is safe to say that most hang glider pilots fly with a variometer (or vario) 
 Varios record GPS position to determine latitude and longitude (and sometimes altitude), and barometric pressure (which can be used to solve for altitude).
 The varios are configured to emit audible tones based on changes in the rate of descent, emitting high pitched beeps when lift is encountered.
 Often, the vario will connect to an airspeed sensor, which provides airspeed data.
-However, this is less common than Varios.
+However, the added airspeed data is less common than the positional data alone.
 
 The primary dataset would be the recorded flights of hang glider pilots, as logged by their vario.
 It is likely that most pilots retain their flight logs.
